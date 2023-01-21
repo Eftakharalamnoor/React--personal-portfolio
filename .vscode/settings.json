@@ -1,0 +1,7 @@
+{
+    "tabnine.disable_file_regex": [
+        "[.]md$",
+        "[.]html$",
+        "[.]css$",
+      ]
+}
