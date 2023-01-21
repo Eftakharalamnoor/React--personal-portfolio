@@ -28,16 +28,16 @@ const Portfolio = () => {
 
         >
             <SwiperSlide>
-                <img src={Sidebar} />
+                <img src={Sidebar} alt="" />
             </SwiperSlide>
             <SwiperSlide>
-                <img src={Ecommererce} />
+                <img src={Ecommererce} alt="" />
             </SwiperSlide>
             <SwiperSlide>
-                <img src={HOC} />
+                <img src={HOC} alt="" />
             </SwiperSlide>
             <SwiperSlide>
-                <img src={MusicApp} />
+                <img src={MusicApp} alt="" />
             </SwiperSlide>
         </Swiper>
     </div>

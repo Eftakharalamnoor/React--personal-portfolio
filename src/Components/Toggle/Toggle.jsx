@@ -1,5 +1,4 @@
 import React from 'react';
-import Toogle from './Toggle.css';
  import Sun from '@iconscout/react-unicons/icons/uil-sun';
  import Moon from '@iconscout/react-unicons/icons/uil-moon';
  import { themeContext } from '../../Context';
